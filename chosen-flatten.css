@@ -1,11 +1,6 @@
-
 .chzn-container .chzn-drop {
   box-shadow: none;
 }
-.chzn-container.chzn-with-drop .chzn-drop {
-  left: 0;
-}
-
 .chzn-container-single .chzn-single {
   border-radius: 0px;
   background: none;
@@ -19,7 +14,6 @@
 .chzn-container-single .chzn-drop {
   border-radius: 0px;
 }
-
 .chzn-container-multi .chzn-choices {
   background-image: none;
 }
