@@ -1,0 +1,9 @@
+.chzn-container-single .chzn-single {
+  border-radius: 0px;
+  background: none;
+  box-shadow: none;
+  }
+  
+.chzn-container-single .chzn-search input {
+  background: none;
+  }
